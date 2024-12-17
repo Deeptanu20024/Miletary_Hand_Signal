@@ -1,0 +1,193 @@
+https://swaagat.tripura.cloud/
+
+
+
+
+node --max_old_space_size=4096 ./node_modules/@angular/cli/bin/ng serve --host  192.168.1.13 --port 4300 
+
+
+
+
+
+
+https://swaagatadmin.tripura.gov.in/               >>>>>drupal sawaagat admin
+http://192.168.1.7/swaagat_26_6_2024/swaagat/      >>>>>Local drupal sawaagat admin
+iltsuperadmin / Oit@admin2020
+
+
+
+cd domains/tripura.cloud/public_html/swavalamban/
+
+
+
+admin in swaagat
+systemadmin
+iLogitron@25$06$2024
+AdminSwaagat@456
+
+
+
+http://192.168.1.13:4300/
+
+
+
+node --max-old-space-size=4096 ./node_modules/@angular/cli/bin/ng build --configuration production
+
+
+ifw
+West@2020
+factory and boiler
+
+
+
+
+use git bush first
+vendor/bin/drush cr
+
+
+
+
+
+deeptanu_bhowmik
+Ghp2jm%8
+
+
+
+
+
+md5hashgenerator
+
+
+
+
+
+https://swavalamban.tripura.cloud/newregistration.php
+ssh -p 65002 u399447393@154.41.240.95
+iLT24@agt
+
+
+
+
+
+DA.DhalaiTripura@Swabalamban.in
+
+gmdhalai1@gmail.com
+
+
+
+https://internshala.com/employer/dashboard
+
+
+
+
+
+
+
+
+
+
+<?php
+// Initialize an array to store the ids
+$ids = [];
+
+// Prepare and execute the SQL query
+$sql_quali = "SELECT id FROM qualification";
+$result = mysqli_query($con, $sql_quali);
+
+if (!$result1) {
+    die("Query Failed: " . mysqli_error($con));
+}
+
+// Check if any rows were returned
+if (mysqli_num_rows($result1) > 0) {
+    // Loop through the results and store each id in the array
+    while ($row1 = mysqli_fetch_assoc($result1)) {
+        $ids[] = $row1['id'];
+    }
+} else {
+    echo "No qualifications available";
+}
+
+// Output the array (for debugging purposes)
+print_r($ids);
+
+// Now you have an array $ids containing all the ids from the qualification table
+?>
+
+
+
+
+
+
+users.first_bank_details IN (SELECT id FROM `branch_details` WHERE `bank` = '".$searchByBank."'
+
+
+
+
+
+decryptAadhar(($row['aadhar_no']), $eKey),
+
+
+
+
+
+
+
+
+ilogitrontechnologies@gmail.com
+iLT2024@agt
+https://srv1092-files.hstgr.io/4a8d41ab5382f3d8/files/public_html/swavalamban/
+
+
+
+
+
+Swaagat My account password 
+Ghp2jm%8
+
+
+
+
+ALTER TABLE users
+ADD COLUMN arranged_accommodation VARCHAR(50),
+ADD COLUMN accommodation_start DATE,
+ADD COLUMN accommodation_end DATE;
+
+
+
+
+SWAAGAT Staging VPN
+swaagatportal
+swaagatportal@123
+
+SWAAGAT Staging VM
+ssh swaagat-staging@10.36.25.157
+swaagat#2024$
+
+
+root
+Swaagat@2024
+
+
+/var/run/mysqld/mysqld.sock
+
+
+
+
+
+tipra@admin123
+tipra@947
+
+
+172.17.0.2
+
+
+http://164.100.127.179/user/1
+http://164.100.127.179/
+
+
+ cd /opt/drupal/web/
+
+
+
+scp C:/Users/91708/OneDrive/Desktop/swaagat_databse/swaagat_db.sql root@192.168.79.11:/root/
